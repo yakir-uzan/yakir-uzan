@@ -19,11 +19,6 @@ TypeScript · JavaScript · Python · React · React Native · Expo · Next.js �
 | [**Jobiz**](https://github.com/yakir-uzan/jobiz) | A local jobs marketplace connecting people with local workers (FastAPI · Next.js · Flutter). |
 | [**Ziku**](https://github.com/yakir-uzan/ziku) | A mobile app for saving and managing store credits & vouchers (Expo / React Native). |
 
-## GitHub Stats
-
-[![Yakir's GitHub stats](https://github-readme-stats.vercel.app/api?username=yakir-uzan&show_icons=true&hide_border=true)](https://github.com/yakir-uzan)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yakir-uzan&layout=compact&hide_border=true)](https://github.com/yakir-uzan)
-
 ## Connect
 
 - LinkedIn: [Yakir Uzan](https://www.linkedin.com/in/yakir-uzan-985b75191/)
