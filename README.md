@@ -33,7 +33,10 @@
 ## 📬 Connect
 
 - 📧 Email: [yakiruzangreen@gmail.com](mailto:yakiruzangreen@gmail.com)
-<!-- LinkedIn: add your profile URL here -->
+- 💼 LinkedIn: [Yakir Uzan](https://www.linkedin.com/in/yakir-uzan-985b75191/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yakir%20Uzan-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yakir-uzan-985b75191/)
+[![Email](https://img.shields.io/badge/Email-yakiruzangreen-EA4335?logo=gmail&logoColor=white)](mailto:yakiruzangreen@gmail.com)
 
 ---
 
@@ -58,5 +61,6 @@ TypeScript · JavaScript · Python · React · React Native · Expo · Next.js �
 
 ## 📬 יצירת קשר
 - 📧 אימייל: [yakiruzangreen@gmail.com](mailto:yakiruzangreen@gmail.com)
+- 💼 לינקדאין: [Yakir Uzan](https://www.linkedin.com/in/yakir-uzan-985b75191/)
 
 </div>
