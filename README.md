@@ -5,6 +5,8 @@
 ### Full-Stack & Mobile Developer
 > Building web and mobile products with React, React Native, TypeScript & Node.js.
 
+**My studio:** [**UY Studio** · uy-studio.pages.dev](https://uy-studio.pages.dev) — websites, apps, landing pages and complex systems.
+
 ---
 
 ## Tech Stack
@@ -21,6 +23,7 @@ TypeScript · JavaScript · Python · React · React Native · Expo · Next.js �
 
 ## Connect
 
+- Website: [uy-studio.pages.dev](https://uy-studio.pages.dev)
 - LinkedIn: [Yakir Uzan](https://www.linkedin.com/in/yakir-uzan-985b75191/)
 - Email: [yakiruzangreen@gmail.com](mailto:yakiruzangreen@gmail.com)
 
@@ -34,6 +37,8 @@ TypeScript · JavaScript · Python · React · React Native · Expo · Next.js �
 ### מפתח Full-Stack ומובייל
 > בונה מוצרי ווב ומובייל עם React, React Native, TypeScript ו-Node.js.
 
+**הסטודיו שלי:** [**UY Studio** · uy-studio.pages.dev](https://uy-studio.pages.dev) — אתרים, אפליקציות, דפי נחיתה ומערכות מורכבות.
+
 ## מחסנית טכנולוגית
 TypeScript · JavaScript · Python · React · React Native · Expo · Next.js · Node.js · FastAPI · Firebase · Supabase · Vite
 
@@ -46,6 +51,7 @@ TypeScript · JavaScript · Python · React · React Native · Expo · Next.js �
 | [**Ziku**](https://github.com/yakir-uzan/ziku) | אפליקציית מובייל לשמירה וניהול של זיכויים ושוברים (Expo / React Native). |
 
 ## יצירת קשר
+- אתר: [uy-studio.pages.dev](https://uy-studio.pages.dev)
 - אימייל: [yakiruzangreen@gmail.com](mailto:yakiruzangreen@gmail.com)
 - לינקדאין: [Yakir Uzan](https://www.linkedin.com/in/yakir-uzan-985b75191/)
 
