@@ -2,10 +2,10 @@
 
 <p align="center"><b>English</b> · <a href="#hebrew">עברית</a></p>
 
-### Full-Stack & Mobile Developer · [UY Studio](https://uy-studio.pages.dev)
+### Full-Stack & Mobile Developer · [UY Studio](https://www.yakiruzan.com)
 > I build websites, apps, landing pages and complex systems, from the first spec conversation to launch.
 
-**Studio site:** [uy-studio.pages.dev](https://uy-studio.pages.dev)
+**Studio site:** [yakiruzan.com](https://www.yakiruzan.com)
 
 ---
 
@@ -21,7 +21,7 @@
 | [**Ganzach**](https://haravshmuelidan.pages.dev) | Platform where rabbis and lecturers publish their video lessons, audio and articles. |
 | [**Jobiz**](https://job-iz.com) | Post a job and someone nearby takes it: worker search, profiles, messages and a job calendar. |
 
-Screenshots of all of them: [uy-studio.pages.dev](https://uy-studio.pages.dev)
+Screenshots of all of them: [yakiruzan.com](https://www.yakiruzan.com)
 
 ## Tech Stack
 
@@ -29,7 +29,7 @@ TypeScript · JavaScript · Python · React · React Native · Expo · Next.js �
 
 ## Connect
 
-- Website: [uy-studio.pages.dev](https://uy-studio.pages.dev)
+- Website: [yakiruzan.com](https://www.yakiruzan.com)
 - WhatsApp: [+972 53-822-7642](https://wa.me/972538227642)
 - Email: [yakiruzangreen@gmail.com](mailto:yakiruzangreen@gmail.com)
 - LinkedIn: [Yakir Uzan](https://www.linkedin.com/in/yakir-uzan-985b75191/)
@@ -41,10 +41,10 @@ TypeScript · JavaScript · Python · React · React Native · Expo · Next.js �
 
 # היי, אני יקיר אוזן
 
-### מפתח Full-Stack ומובייל · [UY Studio](https://uy-studio.pages.dev)
+### מפתח Full-Stack ומובייל · [UY Studio](https://www.yakiruzan.com)
 > בונה אתרים, אפליקציות, דפי נחיתה ומערכות מורכבות, משיחת האפיון הראשונה ועד שזה באוויר.
 
-**האתר של הסטודיו:** [uy-studio.pages.dev](https://uy-studio.pages.dev)
+**האתר של הסטודיו:** [yakiruzan.com](https://www.yakiruzan.com)
 
 ## מה בניתי
 
@@ -58,13 +58,13 @@ TypeScript · JavaScript · Python · React · React Native · Expo · Next.js �
 | [**גנזך**](https://haravshmuelidan.pages.dev) | פלטפורמה שבה רבנים ומרצים מעלים שיעורי וידאו, אודיו ומאמרים. |
 | [**Jobiz**](https://job-iz.com) | מפרסמים עבודה, ומישהו מהאזור לוקח אותה: חיפוש עובדים, פרופיל, הודעות ויומן עבודות. |
 
-צילומי מסך של כולם: [uy-studio.pages.dev](https://uy-studio.pages.dev)
+צילומי מסך של כולם: [yakiruzan.com](https://www.yakiruzan.com)
 
 ## טכנולוגיות
 TypeScript · JavaScript · Python · React · React Native · Expo · Next.js · Node.js · FastAPI · PostgreSQL · Supabase · Firebase · Vite
 
 ## יצירת קשר
-- אתר: [uy-studio.pages.dev](https://uy-studio.pages.dev)
+- אתר: [yakiruzan.com](https://www.yakiruzan.com)
 - וואטסאפ: [053-822-7642](https://wa.me/972538227642)
 - אימייל: [yakiruzangreen@gmail.com](mailto:yakiruzangreen@gmail.com)
 - לינקדאין: [Yakir Uzan](https://www.linkedin.com/in/yakir-uzan-985b75191/)
